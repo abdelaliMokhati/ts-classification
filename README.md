@@ -1,5 +1,10 @@
 # TSAC GROUP PROJECT
 
+# SETUP
+```bash
+pip install -r requirement.txt
+```
+
 # DATA
 
 The data provided in the challenge follows the .csv format. You can find it
